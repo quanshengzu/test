@@ -30,6 +30,8 @@
     
     NSLog(@"xxxxooooo");
     
+    NSLog(@"开始项目");
+    
 }
 
 
